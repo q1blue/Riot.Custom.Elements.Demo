@@ -1,0 +1,25 @@
+{
+    "recommendations": [
+        "ms-vscode.webshell",
+        "earthly.earthfile-syntax-highlighting",
+        "hadesarchitect.helloworld-web-sample",
+        "nadim-vscode.html-meta-tags-hero",
+        "ionutvmi.path-autocomplete",
+        "gieson.smoothy-7-theme",
+        "mattiasbaake.vscode-snippets-for-ansible",
+        "andrewbutson.vscode-openapi-viewer",
+        "eclipse-cdt.serial-monitor",
+        "yogesh.web-ext",
+        "ms-vscode.wasm-wasi-core",
+        "eclipse-cdt.websocket-adapter",
+        "ericzhu.lsp-web-extension-sample",
+        "adamraichu.pdf-viewer",
+        "xupeng6530.nc-project-preview",
+        "lendradev.webdevext-packs",
+        "qguv.ninja-vscode",
+        "hirosystems.clarity-lsp",
+        "cloudstudio.common",
+        "vinh.codeonline-web-extension",
+        "eclipse-cdt.memory-inspector"
+    ]
+}

@@ -1,0 +1,19 @@
+{
+  "name": "riot-custom-elements-demo",
+  "version": "1.0.0",
+  "description": "Simple demo to demonstrate how to build vanilla custom elements with Riot.js",
+  "main": "index.html",
+  "scripts": {
+    "start": "parcel index.html --open",
+    "build": "parcel build index.html"
+  },
+  "dependencies": {
+    "@riotjs/compiler": "^9.0.0",
+    "@riotjs/custom-elements": "^9.0.0",
+    "riot": "9.1.1"
+  },
+  "devDependencies": {
+    "parcel-bundler": "^1.12.3"
+  },
+  "keywords": []
+}

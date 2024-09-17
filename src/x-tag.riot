@@ -1,0 +1,19 @@
+<x-tag>
+  <p onclick={onClick}>{state.message || props.message}</p>
+  <script>
+    export default {
+      onClick() {
+        this.update({
+          message: 'goodbye'
+        })
+      }
+    }
+  </script>
+
+  <style>
+    :host {
+      cursor: pointer;
+      color: green;
+    }
+  </style>
+</x-tag>
